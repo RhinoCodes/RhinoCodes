@@ -1,4 +1,34 @@
-### Hey!
-I am Will, better known as `sudo killall windows` on Discord. I am the Founder of [Earth Matters Too](https://discord.gg/dtjGq9VteB), and I write the package manager for [SEMC OS](https://gihub.com/semissioncontrol/semcOS). <br>While I am not working on EMT or writing Quantum, I am geeking out about keyboards (Corne Gang!) or reading.<br>
-[![RhinoCodes's github stats](https://github-readme-stats.vercel.app/api?username=RhinoCodes&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhinoCodes&show_icons=true&theme=nightowl&hide=c,roff,freemarker)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hi 👋, I'm Will, better known as sudo killall windows</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhinocodes&label=Profile%20views&color=0e75b6&style=flat" alt="rhinocodes" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhinocodes" alt="rhinocodes" /></a> </p>
+
+- 🔭 I’m currently working on [Quantum](https://github.com/quantum-package-manager/quantum)
+
+- 🌱 I’m currently learning **Keyboards, all about Keyboards.**
+
+- 👯 I’m looking to collaborate on [Earth Matters Too](https://discord.gg/JdMHghvZya)
+
+- 🤝 I’m looking for help with [Quantum](https://github.com/quantum-package-manager/quantum)
+
+- 💬 Ask me about **Keyboards, books, and anything space related!**
+
+- 📫 How to reach me **DM u/SuperMeteorite on Reddit or sudo killall windows#5486 on Discord.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/rhinocodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rhinocodes" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11587973" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11587973" height="30" width="40" /></a>
+<a href="https://discord.gg/dtjGq9VteB" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="dtjGq9VteB" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhinocodes&show_icons=true&locale=en&layout=compact" alt="rhinocodes" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhinocodes&show_icons=true&locale=en" alt="rhinocodes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhinocodes&" alt="rhinocodes" /></p>
