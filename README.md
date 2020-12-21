@@ -27,7 +27,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhinocodes&show_icons=true&locale=en" alt="rhinocodes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhinocodes&show_icons=true&locale=en&theme=nightowl" alt="rhinocodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhinocodes&" alt="rhinocodes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhinocodes&theme=nightowl" alt="rhinocodes" /></p>
 </body>
