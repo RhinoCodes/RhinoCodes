@@ -26,9 +26,6 @@
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhinocodes&show_icons=true&locale=en&theme=nightowl" alt="rhinocodes" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhinocodes&show_icons=true&locale=en&theme=nightowl" alt="rhinocodes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhinocodes&theme=nightowl" alt="rhinocodes" /></p>
-</body>
-<style>* { border: none }</style>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhinocodes&theme=nightowl" alt="rhinocodes" />
