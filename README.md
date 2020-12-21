@@ -1,8 +1,7 @@
+<body style="text-align:center">
 <h1 align="center">Hi 👋, I'm Will, better known as sudo killall windows</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhinocodes&label=Profile%20views&color=0e75b6&style=flat" alt="rhinocodes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhinocodes" alt="rhinocodes" /></a> </p>
 
 - 🔭 I’m currently working on [Quantum](https://github.com/quantum-package-manager/quantum)
 
@@ -31,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhinocodes&show_icons=true&locale=en" alt="rhinocodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhinocodes&" alt="rhinocodes" /></p>
+</body>
