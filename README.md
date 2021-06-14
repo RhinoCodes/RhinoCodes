@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhinocodes&label=Profile%20views&color=0e75b6&style=flat" alt="rhinocodes" /> </p>
 
-- 🔭 I’m currently working on [Quantum](https://github.com/quantum-package-manager/quantum)
+- 🔭 I’m currently not working on [Quantum](https://github.com/quantum-package-manager/quantum)
 
 - 🌱 I’m currently learning **Keyboards, all about Keyboards.**
 
