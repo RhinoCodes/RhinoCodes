@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhinocodes&label=Profile%20views&color=0e75b6&style=flat" alt="rhinocodes" /> </p>
 
-- 🔭 I’m currently not working on [Quantum](https://github.com/quantum-package-manager/quantum)
+- 🔭 I’m currently working on [the Nexus Aurora Task Board (and other stuff) Discord Bot](https://github.com/semc-labs/NexusAuroraTaskBoard)
 
 - 🌱 I’m currently learning **Keyboards, all about Keyboards.**
 
-- 👯 I’m looking to collaborate on [Earth Matters Too](https://discord.gg/JdMHghvZya)
-
-- 🤝 I’m looking for help with [Quantum](https://github.com/quantum-package-manager/quantum)
+- 👯 I’m looking to collaborate on [my Carbon Caputer Project](https://discord.gg/KMa2GbdNa8)
 
 - 💬 Ask me about **Keyboards, books, and anything space related!**
 
-- 📫 How to reach me **DM u/SuperMeteorite on Reddit or sudo killall windows#5486 on Discord.**
+- 📫 How to reach me **DM u/SuperMeteorite on Reddit or sudo killall windows#0042 on Discord.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
