@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Keyboards, all about Keyboards.**
 
-- 👯 I’m looking to collaborate on [my Carbon Caputer Project](https://discord.gg/KMa2GbdNa8)
+- 👯 I’m looking to collaborate on [my Carbon Capture Project](https://discord.gg/KMa2GbdNa8)
 
 - 💬 Ask me about **Keyboards, books, and anything space related!**
 
