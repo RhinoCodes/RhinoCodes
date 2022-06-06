@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhinocodes&label=Profile%20views&color=0e75b6&style=flat" alt="rhinocodes" /> </p>
 
-- 🔭 I’m currently working on [the Nexus Aurora Task Board (and other stuff) Discord Bot](https://github.com/semc-labs/NexusAuroraTaskBoard)
+- 🔭 I’m currently working on The Official [NASA APOD](https://apod.nasa.gov)
 
-- 🌱 I’m currently learning **Keyboards, all about Keyboards.**
+- 🌱 I’m starting to learn **Rust**
 
 - 👯 I’m looking to collaborate on [my Carbon Capture Project](https://discord.gg/KMa2GbdNa8)
 
 - 💬 Ask me about **Keyboards, books, and anything space related!**
 
-- 📫 How to reach me **DM u/SuperMeteorite on Reddit or sudo killall windows#0042 on Discord.**
+- 📫 How to reach me **DM u/SuperMeteorite on Reddit or sudo killall windows#0884 on Discord.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
