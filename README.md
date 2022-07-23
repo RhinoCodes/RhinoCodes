@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhinocodes&label=Profile%20views&color=0e75b6&style=flat" alt="rhinocodes" /> </p>
 
-- 🔭 I’m currently working on The Official [NASA APOD](https://apod.nasa.gov)
+- 🔭 I’m currently working on The Official [NASA APOD](https://apod.nasa.gov) Discord Bot
 
 - 🌱 I’m starting to learn **Rust**
 
