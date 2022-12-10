@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-<h1 align="center">Hi 👋, I'm Will, better known as ```sudo killall windows```</h1>
+<h1 align="center">Hi 👋, I'm Will, better known as sudo killall windows</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhinocodes&label=Profile%20views&color=0e75b6&style=flat" alt="rhinocodes" /> </p>
 
