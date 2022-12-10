@@ -7,10 +7,6 @@
 
 - 🌱 I’m starting to learn **Rust**
 
-- 👯 I’m looking to collaborate on [my Carbon Capture Project](https://discord.gg/KMa2GbdNa8)
-
-- 💬 Ask me about **Keyboards, books, and anything space related!**
-
 - 📫 How to reach me **DM u/SuperMeteorite on Reddit or sudo killall windows#0884 on Discord.**
 
 <h3 align="left">Connect with me:</h3>
